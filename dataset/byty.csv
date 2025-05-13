@@ -1,0 +1,51 @@
+Číslo inzerátu,Lokalita,Cena nájmu (Kč/měsíc),Vzdálenost od pracoviště (min),Plocha bytu (m²),Stav bytu (1-10),Okolí a občanská vybavenost (1-10),Hlučnost (dB)
+93810,Praha 1 - Staré Město,25000,15,48,8,10,65
+24592,Praha 1 - Nové Město,23500,18,52,7,9,62
+13278,Praha 2 - Vinohrady,19800,22,55,8,9,56
+46048,Praha 2 - Nusle,17500,25,62,6,7,54
+42098,Praha 3 - Žižkov,16800,30,58,5,8,60
+39256,Praha 3 - Jarov,15200,35,65,6,6,52
+28289,Praha 4 - Nusle,16500,28,61,7,7,58
+23434,Praha 4 - Michle,14800,32,68,5,6,55
+98696,Praha 4 - Podolí,18200,25,52,7,8,50
+81482,Praha 5 - Smíchov,19500,20,47,8,9,59
+21395,Praha 5 - Košíře,15900,35,70,6,7,52
+87397,Praha 6 - Dejvice,21000,28,56,8,9,51
+65302,Praha 6 - Břevnov,18500,32,65,7,8,48
+14165,Praha 7 - Holešovice,17800,22,49,7,8,57
+13905,Praha 7 - Letná,19200,18,45,8,9,58
+22280,Praha 8 - Karlín,20500,15,42,9,8,61
+38657,Praha 8 - Libeň,16200,25,59,6,7,56
+40495,Praha 9 - Vysočany,15500,30,63,6,6,57
+76237,Praha 9 - Prosek,14200,38,67,5,5,53
+88907,Praha 10 - Vršovice,16800,25,58,7,7,55
+13478,Praha 10 - Strašnice,15700,32,65,6,6,54
+83563,Praha 1 - Josefov,27500,12,40,9,10,64
+36062,Praha 2 - Vyšehrad,19900,20,54,8,8,52
+95181,Praha 3 - Vinohradská,18200,25,60,7,8,59
+81426,Praha 4 - Pankrác,17500,28,66,8,7,57
+64987,Praha 5 - Anděl,21000,18,49,9,9,60
+38893,Praha 6 - Hradčanská,22500,22,51,8,9,55
+68878,Praha 7 - Výstaviště,16800,28,62,5,7,58
+87236,Praha 8 - Kobylisy,15200,35,72,6,6,50
+46463,Praha 9 - Černý Most,13800,45,75,7,5,51
+10851,Praha 10 - Malešice,14500,38,68,5,5,52
+30926,Praha 1 - Malá Strana,29000,20,45,9,10,58
+65392,Praha 2 - Albertov,18500,25,56,7,8,53
+54597,Praha 3 - Flora,17900,22,53,8,8,56
+46421,Praha 4 - Budějovická,16800,30,64,7,7,54
+30379,Praha 5 - Radlice,15500,35,70,6,6,49
+38221,Praha 6 - Petřiny,17200,32,68,7,7,47
+54118,Praha 7 - Bubeneč,18800,25,55,8,8,53
+23396,Praha 8 - Bohnice,14200,40,74,6,5,48
+22156,Praha 9 - Střížkov,13900,42,76,5,5,50
+59797,Praha 10 - Záběhlice,14800,35,69,6,6,51
+22676,Praha 1 - Můstek,26500,15,43,9,10,66
+57052,Praha 2 - Náměstí Míru,20500,18,50,8,9,57
+55082,Praha 3 - Ohrada,15800,32,66,5,6,55
+89131,Praha 4 - Kačerov,15200,35,70,6,6,53
+44671,Praha 5 - Jinonice,14900,38,72,5,5,48
+15695,Praha 6 - Veleslavín,16500,30,64,7,6,50
+70217,Praha 7 - Troja,17800,32,58,7,7,49
+80284,Praha 8 - Ďáblice,14500,42,78,6,5,46
+26361,Praha 10 - Skalka,14200,40,73,5,5,52
